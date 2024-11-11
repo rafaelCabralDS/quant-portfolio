@@ -2,13 +2,6 @@
 
 This repository showcases projects and models that demonstrate my quantitative analysis, data science, and machine learning expertise, specifically applied to finance and investment strategies. It includes Python-based tools for financial risk management, predictive modeling, and portfolio optimization.
 
-## Table of Contents
-- [Projects](#projects)
-- [Technologies and Tools](#technologies-and-tools)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
 ## Projects
 
 ### 3. **Crypto Portfolio Optimization**

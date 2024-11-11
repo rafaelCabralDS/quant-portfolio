@@ -4,7 +4,7 @@ This repository showcases projects and models that demonstrate my quantitative a
 
 ## Projects
 
-### 3. **Crypto Portfolio Optimization**
+### 1. **Crypto Portfolio Optimization**
    - **Description**: A portfolio optimization tool leveraging quantitative methods to balance risk and return, with a focus on mitigating market risks using custom strategies.
    - **Tech Stack**: Python, pandas, numpy, vectorbt, matplotlib, plotly.
    - **Concepts**: Efficient Frontier, Expected Returns, Risk (Volatility), Sharpe Ratio, Optimization

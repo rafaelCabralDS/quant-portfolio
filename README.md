@@ -9,6 +9,11 @@ This repository showcases projects and models that demonstrate my quantitative a
    - **Tech Stack**: Python, pandas, numpy, vectorbt, matplotlib, plotly.
    - **Concepts**: Efficient Frontier, Expected Returns, Risk (Volatility), Sharpe Ratio, Optimization
 
+### 2. **Options Pricing Project**
+   - **Description**: A project that implements and analyzes options pricing models, including the Black-Scholes-Merton model and binomial tree methods. It incorporates implied volatility calculations and Greeks analysis for financial derivatives.
+   - **Tech Stack**: Python, numpy, scipy, matplotlib, seaborn, pandas.
+   - **Concepts**: Options Pricing, Black-Scholes-Merton, Binomial Trees, Implied Volatility, Options Greeks (Delta, Gamma, Theta, Vega, Rho).
+
 ## Contributing
 
 Contributions to this portfolio are welcome. If you have suggestions for improvements or additional project ideas, please open an issue or submit a pull request.

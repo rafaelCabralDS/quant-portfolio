@@ -15,9 +15,9 @@ This repository showcases projects and models that demonstrate my quantitative a
    - **Concepts**: Options Pricing, Black-Scholes-Merton, Binomial Trees, Implied Volatility, Options Greeks (Delta, Gamma, Theta, Vega, Rho).
 
 ### 3. **Credit Risk Analysis**
-   - **Description((: A comprehensive credit risk analysis of a loan portfolio. The project focuses on evaluating the credit risk of loans in the US market by analyzing exposure at default (EAD), probability of default (PD), recovery rate, loss given default (LGD), and expected loss.
-Tech Stack: Python, pandas, numpy, plotly, scipy.
-Concepts: Credit Risk, Probability of Default (PD), Exposure at Default (EAD), Loss Given Default (LGD), Portfolio Metrics, Risk Management, Credit Portfolio Management.
+   - **Description**: A comprehensive credit risk analysis of a loan portfolio. The project focuses on evaluating the credit risk of loans in the US market by analyzing exposure at default (EAD), probability of default (PD), recovery rate, loss given default (LGD), and expected loss.
+   - **Tech Stack**: Python, pandas, numpy, plotly, scipy.
+   - **Concepts**: Credit Risk, Probability of Default (PD), Exposure at Default (EAD), Loss Given Default (LGD), Portfolio Metrics, Risk Management, Credit Portfolio Management.
 
 ## Contributing
 
